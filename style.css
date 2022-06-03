@@ -230,6 +230,8 @@ clip-path:polygon(0% 0%, 100% 0%, 100% 100%, 60% 20%,0% 100%);
 .our-works{
     text-align: center;
     color: white;
+    /* border: 5px solid red; */
+    padding: 10px;
 }
 .our-works>h2>span{
     color: rgb(220, 175, 85);
@@ -237,9 +239,9 @@ clip-path:polygon(0% 0%, 100% 0%, 100% 100%, 60% 20%,0% 100%);
 .works-image{
    text-align: center;
     padding: 30px;
-    height: 400px;
+    height: 650px;
     width: 100%;
-   
+    /* border: 5px solid red; */
 }
 .works-image img{
     padding: 10px;
